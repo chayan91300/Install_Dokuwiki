@@ -6,7 +6,7 @@
 # Ce script va servir a installer Dokuwiki avec un minimum 
 # d'intéractions.
 #----------------------------------------------------------------#
-# AUTEURS: Daniel DOS SANTOS < danielitto91@gmail.com >
+# AUTEURS: Olivier
 #----------------------------------------------------------------#
 # DATE DE CRÉATION: 28/07/2018
 #----------------------------------------------------------------#
